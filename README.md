@@ -3,8 +3,8 @@
 
 ## Project run guide : 
 
-###open server folder 
+### open server folder 
 run command : `npm start`
 
-###open client  folder
+### open client  folder
 run command : `npm run dev`
